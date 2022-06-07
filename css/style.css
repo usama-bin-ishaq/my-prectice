@@ -1,0 +1,34 @@
+.box1 {
+    background-color: aqua;
+    height: 200px;
+    width: 200px;
+    border: 4px solid gray;
+    border-radius: 12px;
+
+}
+
+.box2 {
+    background-color: aqua;
+    height: 400px;
+    width: 400px;
+    border: 4px solid gray;
+    margin-top: 10px;
+    border-radius: 12px;
+   
+}
+.img1{
+    background-image: url(https://e7.pngegg.com/pngimages/708/311/png-clipart-icon-logo-twitter-logo-twitter-logo-blue-social-media-thumbnail.png);
+    /* background-repeat: no-repeat; */
+    /* height: px; */
+    /* width: 10pxs; */
+}
+
+.box3 {
+    background-color: aqua;
+    height: 200px;
+    width: 200px;
+    border: 4px solid gray;
+    margin-top: 10px;
+    border-radius: 12px;
+    float: right;
+}
